@@ -1,6 +1,6 @@
-syntax: glob
 *.pyc
 *.pyv
-*.swp
-*.swo
-tags
+*.sw*
+*.tar*
+*/
+*.egg
